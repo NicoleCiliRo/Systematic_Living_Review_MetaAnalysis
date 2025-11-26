@@ -1,0 +1,12 @@
+Study_ID, Setting, Sensitivity, Specificity, AUC, n_diseased, n_non_diseased, Device, Reference_Test
+Ahrari et al.;In vivo;0.89;0.14;null;9;34;VistaCam iX (Dürr Dental);Visual and tactile examination
+Heck et al.;In vitro;0.29;0.84;0.57;92;158;own NIRR in vitro model setup;Micro-Computed Tomography
+Hoxie et al.;In vitro;0.56;0.89;0.71;45;53;iTero Element 5D;Micro-Computed Tomography
+Kanar et al.;In vivo;0.64;0.8;0.79;197;442;(Align Technologies);Consensus by two examiners based on bitewing radiograph examination
+Kocak et al.;In vivo;0.77;0.33;0.71;335;0;iTero Element 5D;"Consensus by two examiners for enamel lesions (based on clinical examination + bitewing radiographs); Lesion opening for dentin lesions."
+Litzenburger et al.;In vitro;0.33;0.84;0.58;92;158;(Align Technologies);Micro-computed Tomography
+Metzger et al.;In vivo;0.73;0.97;null;223;3.276;DIAGNOcam; Bitewing radiograph examination by experts
+Rodrigues et al.;In vitro;0.37;0.96;0.67;73;98;(KaVo);Histological Analysis
+Shen et al.;In vivo;0.44;0.83;0.63;68;448;iTero Element 5D;Ground Truth established y experienced operators (intraoral examination + bitewing radiograph)
+Stratigaki et al.;In vivo;0.97;0.6;0.8;85;31;(Align Technologies);Clinical Validation (Lesion Opening)
+Wang et al.;In Vitro;0.76;0.96;0.86;87;31;iTero Element 5D;Histological Analysis 
